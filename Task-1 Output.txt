@@ -1,0 +1,13 @@
+Microsoft Windows [Version 10.0.22631.4391]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>cd C:\CodeAlpha01
+
+
+C:\CodeAlpha01>python network_sniffer.py
+Starting network sniffer...
+Source IP: 192.168.125.52 -> Destination IP: 13.89.179.13 | Protocol: 6
+Source IP: 192.168.125.52 -> Destination IP: 13.71.196.252 | Protocol: 6
+Source IP: 13.71.196.252 -> Destination IP: 192.168.125.52 | Protocol: 6
+Source IP: 13.71.196.252 -> Destination IP: 192.168.125.52 | Protocol: 6
+Source IP: 192.168.125.52 -> Destination IP: 13.71.196.252 | Protocol: 6
